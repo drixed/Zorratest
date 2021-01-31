@@ -1,0 +1,4 @@
+enum LikeStatus{
+  notLiked,
+  liked,
+}
